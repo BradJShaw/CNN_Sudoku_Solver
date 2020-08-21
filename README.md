@@ -16,7 +16,7 @@ CNN_Sudoku.py :   This script launches a small gui that is used to create the su
 
 - run CreateModel.py so it can create a model, let it continue running to calculate the accuracy
 
-- run CNN_Sudoku.py to bring up a gui with the working puzzle solver.
+- run CNN_Sudoku.py to bring up a gui with the working puzzle solver. I provided some puzzles as examples, they are numbered by difficulty
 
 # Last Mentions
 
