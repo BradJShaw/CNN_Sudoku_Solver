@@ -3,11 +3,11 @@ Attempt to train a Convolutional Neural Net to play sudoku
 
 # Files
 CreateModel.py :  This script creates a cnn model using keras and tests its accuracy with 10% of the given data set.
-                  This model uses 2 convolutional layers, a flatten layer, and a dense layer. It also uses adam as an optimizer.
+                  This model uses 2 convolutional layers, a flatten layer, and a dense layer. It also uses adam as an optimizer.<br /><br />
 CNN_Sudoku.py :   This script launches a small gui that is used to create the sudoku puzzle. when the solve button is pressed, the program will check if its a valid puzzle and                       will begin to solve it.
 
 # How to Use
-- obtain a dataset of sudoku puzzles from a source such as kaggle and place it in this project's directory.
+- obtain a dataset of sudoku puzzles from a source such as kaggle and place it in this project's directory.<br />
   The one I used was https://www.kaggle.com/bryanpark/sudoku
 
 - In line 138 in CreateModel.py, rename 'filename' to the name of the dataset
