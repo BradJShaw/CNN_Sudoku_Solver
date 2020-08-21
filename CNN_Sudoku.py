@@ -334,7 +334,7 @@ for x in range(9):
             num.grid(pady = (7, 33))
 
 # load model
-model = keras.models.load_model('model2.h5')
+model = keras.models.load_model('model.h5')
 
 # button for opening a puzzle
 openFile = tk.Button(root, text = "Open File", padx = 10, pady = 10, fg="Black", command = openPuzzle)
