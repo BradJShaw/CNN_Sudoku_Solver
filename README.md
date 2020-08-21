@@ -8,6 +8,7 @@ CNN_Sudoku.py :   This script launches a small gui that is used to create the su
 
 # How to Use
 - obtain a dataset of sudoku puzzles from a source such as kaggle and place it in this project's directory.
+  The one I used was https://www.kaggle.com/bryanpark/sudoku
 
 - In line 138 in CreateModel.py, rename 'filename' to the name of the dataset
 
